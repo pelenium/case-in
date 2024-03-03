@@ -1,0 +1,7 @@
+path: C:/development/Python/case-in/dataset
+train: 'train/images'
+val: 'valid/images'
+ 
+# class names
+names: 
+  0: 'defect'
